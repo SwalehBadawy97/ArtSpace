@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ArtSpace</string>
+    <string name="title">The Quba</string>
+    <string name="caption">The famous minaret of Riyadha Mosque</string>
+    <string name="title2">Kirumbizi</string>
+    <string name="caption2">The famous traditional sword fight</string>
+    <string name="title3">Donkey race</string>
+    <string name="caption3">Donkey race competition for the youth.</string>
+</resources>
